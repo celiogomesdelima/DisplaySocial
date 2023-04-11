@@ -27,7 +27,7 @@ section#telefone {
   width: 500px;
   background: url(celular_frame.png);
   background-size: contain;
-  }
+}
 iframe#tela {
   position: relative;
   top: 41px;
@@ -35,22 +35,22 @@ iframe#tela {
   border-radius: 12px;
   width: 209px;
   height: 405px;
-  }
-section#redes_sociais > a > img{
-    width: 50px;
-    margin: 10px;
-    border-radius: 50%;
-    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
-    box-sizing: border-box;
-    margin-right: 40px;
 }
-section#redes_sociais > a > img:hover{
-    scale: 1.1;
-    border: 2px solid rgba(255, 255, 255, 0.7);
-    transform: translate(-3px,-3px);
-    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
-    transition: transform 0.2s;
+section#redes_sociais > a > img {
+  width: 50px;
+  margin: 10px;
+  border-radius: 50%;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+  margin-right: 40px;
 }
-section#redes_sociais{
-    text-align: right;
+section#redes_sociais > a > img:hover {
+  scale: 1.1;
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  transform: translate(-3px, -3px);
+  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+  transition: transform 0.2s;
+}
+section#redes_sociais {
+  text-align: right;
 }
