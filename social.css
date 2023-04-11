@@ -13,9 +13,9 @@
     margin-bottom: -5px;
   }
   img#home{
-    width: 100vw;
     height: 100vh;
   }
+
   a {
     display: block;
     background-color: darkred;
