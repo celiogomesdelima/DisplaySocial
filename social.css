@@ -12,10 +12,10 @@
     width: 100vw;
     margin-bottom: -5px;
   }
-  img#home{
+  #home{
     height: 100vh;
   }
-
+  
   a {
     display: block;
     background-color: darkred;
